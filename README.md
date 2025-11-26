@@ -3,7 +3,7 @@
 # Proposta de aplicativo
 
 ## Equipe
-* **Nome do Aluno(a) 1:** [Seu nome e matrícula]
+* **Nome do Aluno(a) 1:** Kailany Sofia - 587754
 * **Nome do Aluno(a) 2:** [Seu nome e matrícula]
 * **Nome do Aluno(a) 3:** [Seu nome e matrícula]
 * ...
@@ -11,22 +11,20 @@
 ---
 
 ## Título do Projeto
-[Escolha um título criativo e descritivo para o seu projeto.]
+ANCI - Conectando Gerações 
 
 ## Descrição do Projeto
-[Descreva em 2-3 parágrafos o que o seu projeto faz. Qual é o problema que ele resolve? Quem é o público-alvo? Quais são as principais funcionalidades?]
-
----
+O app tem como objetivo ajudar idosos a usar melhor o smartphone por meio de uma interface simples, clara e totalmente pensada para acessibilidade.
+O ANCI busca promover autonomia digital para pessoas idosas, oferecendo tutoriais passo a passo, lembretes importantes e uma navegação amigável. A ideia é reduzir a dificuldade que muitos idosos têm com tecnologia e facilitar tarefas básicas do dia a dia no celular.
 
 ## Funcionalidades Principais
 [Liste as principais funcionalidades do projeto. Use caixas de seleção para que a equipe possa marcar as concluídas nas próximas etapas.]
 
-- [ ] Funcionalidade 1: [Breve descrição da funcionalidade]
-- [ ] Funcionalidade 2: [Breve descrição da funcionalidade]
-- [ ] Funcionalidade 3: [Breve descrição da funcionalidade]
-- [ ] ...
-
----
+- [ ] Tela inicial e boas-vindas:Design simples, com texto grande e explicação clara sobre a função do aplicativo.
+- [ ] Menu principal: Ícones grandes, contrastantes e com poucas opções, evitando confusão. As principais funções incluem:
+	•	Tutoriais (Ensina o idoso a realizar ações comuns no celular, como enviar mensagem ou conectar no Wi-Fi, sempre com instruções curtas e visuais.)
+	•	Lembretes (Agenda simples para medicamentos, consultas e compromissos. Layout limpo e fonte ampliada.)
+	•	Configurações básicas (Opções essenciais como aumentar fonte, ativar alto contraste e pedir ajuda.)
 
 > [!WARNING]
 > Daqui em diante o README.md só deve ser preenchido no momento da entrega final.
