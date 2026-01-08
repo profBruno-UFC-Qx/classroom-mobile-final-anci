@@ -4,7 +4,7 @@
 
 ## Equipe
 * **Nome do Aluno(a) 1:** Kailany Sofia - 587754
-* **Nome do Aluno(a) 2:** [Seu nome e matrícula]
+* **Nome do Aluno(a) 2:** Breno Gonzaga de Carvalho - 542155
 * **Nome do Aluno(a) 3:** [Seu nome e matrícula]
 * ...
 
